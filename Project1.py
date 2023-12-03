@@ -4,3 +4,6 @@ last_name = input("What is your last name?\n")
 print("Your name is " + first_name + last_name) 
 #test
 #print("Your name is " + first_name + last_name) 
+ffff
+fff
+print("f")
